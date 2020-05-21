@@ -1,0 +1,1 @@
+Cara menghapus history ketik history -c lalu enter
